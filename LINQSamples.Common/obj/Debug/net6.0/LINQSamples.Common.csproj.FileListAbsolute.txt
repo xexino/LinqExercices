@@ -1,0 +1,15 @@
+C:\Linq\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.deps.json
+C:\Linq\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.dll
+C:\Linq\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.pdb
+C:\Linq\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.DataLayer.dll
+C:\Linq\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.DataLayer.pdb
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.AssemblyReference.cache
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.AssemblyInfoInputs.cache
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.AssemblyInfo.cs
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.CoreCompileInputs.cache
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.CopyComplete
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.dll
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\refint\LINQSamples.Common.dll
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.pdb
+C:\Linq\LINQSamples.Common\obj\Debug\net6.0\ref\LINQSamples.Common.dll
